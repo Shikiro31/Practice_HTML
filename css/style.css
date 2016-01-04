@@ -1,9 +1,15 @@
-h1{color: blue;
-  font-size: 30px;
-background-color: yellow;
-height: 80px;
-width: 500px}
-a{color: red;
-  font-size: 40px;}
-img{height: 50px;
-width: 70px;}
+h1 {
+    color: blue;
+    font-size: 30px;
+    background-color: yellow;
+    height: 80px;
+    width: 500px;
+}
+a {
+    color: red;
+    font-size: 40px;
+}
+img {
+    height: 50px;
+    width: 70px;
+}
